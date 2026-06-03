@@ -6,3 +6,4 @@ seaborn
 requests
 jupyter
 pyyaml  
+python-dotenv
